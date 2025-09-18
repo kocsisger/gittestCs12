@@ -2,4 +2,4 @@ korte
 alma
 szilva
 barack
-birs
+birs/bodza
