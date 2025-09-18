@@ -3,3 +3,4 @@ alma
 szilva
 barack
 birs/bodza
+málna
